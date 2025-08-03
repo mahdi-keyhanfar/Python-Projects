@@ -35,4 +35,4 @@ Feel free to explore, give feedback, or fork the code!
 ---
 
 ### 📫 Contact  
-If you'd like to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com) or [Email](mailto:Mahdikeyhanfar17@gmail.com) or simply open an issue in this repository.
+If you'd like to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mahdi-keyhanfar/) or [Email](mailto:Mahdikeyhanfar17@gmail.com) or simply open an issue in this repository.
