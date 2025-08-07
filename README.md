@@ -22,6 +22,7 @@ Projects developed to strengthen Python skills through hands-on coding and pract
 | Project | Description |
 |--------|-------------|
 | [Rock Paper Scissors](mini-projects/rock-paper-scissors) | A classic Rock-Paper-Scissors game implemented in Python |
+| [Gusses The Number](mini-projects/gusses-number) |  A simple CLI game where the user guesses a random number |
 
 ## 🚀 Coming Soon  
 Projects planned as I advance in topics like automation, APIs, and web development.
