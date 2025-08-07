@@ -17,6 +17,11 @@ Projects developed to strengthen Python skills through hands-on coding and pract
 
 
 ---
+## 🧩 Mini Projects
+
+| Project | Description |
+|--------|-------------|
+| [Rock Paper Scissors](mini-projects/rock-paper-scissors) | A classic Rock-Paper-Scissors game implemented in Python |
 
 ## 🚀 Coming Soon  
 Projects planned as I advance in topics like automation, APIs, and web development.
