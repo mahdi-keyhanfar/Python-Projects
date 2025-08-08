@@ -12,7 +12,6 @@ Projects developed to strengthen Python skills through hands-on coding and pract
 | Project Name     | Description                                               | Status                       |
 |------------------|-----------------------------------------------------------|------------------------------|
 | Password-Manager | A simple password manager with encryption features        | ✅ Finished – Private        |
-| ToDo-Terminal    | A terminal-based to-do app built with Python              | 🛠 In Progress               |
 | Login-Page       | A modern login page built with Python and CustomTkinter   | 🎨 UI Only – Near Completion  |
 
 
@@ -24,6 +23,7 @@ Projects developed to strengthen Python skills through hands-on coding and pract
 | [Rock Paper Scissors](mini-projects/rock-paper-scissors) | A classic Rock-Paper-Scissors game implemented in Python |
 | [Gusses The Number](mini-projects/gusses-number) |  A simple CLI game where the user guesses a random number |
 | [Calculator Terminal](mini-projects/calculator-terminal) |  A terminal calculator with (+)(-)(*)(/) |
+| [ToDo-Terminal](mini-projects/todo-terminal) |  A terminal-based to-do app built with Python |
 
 ## 🚀 Coming Soon  
 Projects planned as I advance in topics like automation, APIs, and web development.
