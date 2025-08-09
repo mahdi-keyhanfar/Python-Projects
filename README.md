@@ -24,6 +24,7 @@ Projects developed to strengthen Python skills through hands-on coding and pract
 | [Gusses The Number](mini-projects/gusses-number) |  A simple CLI game where the user guesses a random number |
 | [Calculator Terminal](mini-projects/calculator-terminal) |  A terminal calculator with (+)(-)(*)(/) |
 | [ToDo-Terminal](mini-projects/Todo-Terminal) |  A terminal-based to-do app built with Python |
+| [Gusses The Word](mini-projects/gusses-word-terminal) |  A simple game where the user guesses a random word built with Python |
 
 ## 🚀 Coming Soon  
 Projects planned as I advance in topics like automation, APIs, and web development.
