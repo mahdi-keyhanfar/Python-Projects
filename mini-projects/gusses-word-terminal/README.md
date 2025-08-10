@@ -31,4 +31,4 @@ A simple terminal-based word guessing game written in Python — similar to **Ha
 ## 🚀 How to Run
 
 ```bash
-python word_guess.py
+python gusses-word-terminal.py
