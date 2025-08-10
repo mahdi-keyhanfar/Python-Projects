@@ -1,6 +1,6 @@
 import random
 time_try = 0 
-word = ['apple','world','ball','book','bag']
+word = ['apple','world','ball','book','bag',"keyboard"]
 
 random_chose = random.choice(word)
 data1 = ["-"] *len(random_chose)
@@ -19,6 +19,5 @@ while time_try < 6:
 
     if time_try == 6:
         break
-
 print(data1)
 print("Answer:", random_chose) 
