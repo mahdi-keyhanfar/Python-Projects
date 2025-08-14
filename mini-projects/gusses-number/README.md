@@ -29,4 +29,4 @@ A simple terminal-based number guessing game written in Python — similar to cl
 ## 🚀 How to Run
 
 ```bash
-python guess-number-terminal.py
+python guess-number.py
