@@ -1,9 +1,13 @@
 import random
+counter_gusess = 0
+guess_number = 0
+choice = random.randint(1,10)
 
-num = random.randint(1,10)
-ges = int(input("GES A Number: "))
-
-if num == ges :
-    print("You Win \U0001F382")
-else:
-    print("Your Are Noob \U0001F595")
+while guess_number != choice:
+    guess_number = int(input("Enter a number: "))
+    if guess_number == choice:
+        print("You win 🏆")
+    else:
+        counter_gusess += 1
+        print(f"Try again🥱 \nThe number of gusses:{counter_gusess}")
+        
