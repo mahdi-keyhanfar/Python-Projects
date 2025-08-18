@@ -7,7 +7,7 @@ A simple terminal-based number guessing game written in Python — similar to cl
 ## 📌 Features
 - 🎯 Random target number within a chosen range (1-10)  
 - ⌨️ Accepts numerical guesses from the player     
-
+- 🏷️ Show number of guesses
 ---
 
 ## 📦 Coming Soon
