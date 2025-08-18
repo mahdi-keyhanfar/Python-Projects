@@ -1,6 +1,9 @@
 data1 = float(input("Enter Your Number: "))
 data2 = input("Select (+,-,*,/)")
+if data2 != "+""-""/""*":
+    print("Please choice Between (+,-,*,/) ")
 data3 = float(input("Enter Your Number2 : "))
+
 
 if data2 == "+":
     print(f"The sum of your numbers ==> {data1+data3}")
@@ -11,4 +14,4 @@ elif data2 == "*":
 elif data2 == "/":
     print(f"The divided of your numbers ==> {data1/data3}")
 else:
-    print("Invalid Input")
+    print("\033[91mInvalid Input\033[0m")
